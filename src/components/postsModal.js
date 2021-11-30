@@ -10,7 +10,7 @@ export const postsModal = () => {
 
   const imgPost = document.createElement("img");
   imgPost.className = "imgPost";
-  imgPost.src = "images/header32.png";
+  imgPost.src = "Images/header32.png";
   headerModal.appendChild(imgPost);
 
   const logo = document.createElement("img");
